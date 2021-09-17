@@ -4,7 +4,7 @@ C:\> java Sample John
 O/P Expected : Welcome John
 */
 
-public class Assignment02 {
+public class Assignment2 {
 
 	public static void main(String[] args) {
 		
