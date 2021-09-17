@@ -1,5 +1,5 @@
 /*Write a Program that accepts two Strings as command line arguments and generate the output in the required format. 
-Example1)
+Example1
 If the two command line arguments are Wipro and Bangalore then the output generated should be Wipro Technologies Bangalore.*/
 
 
