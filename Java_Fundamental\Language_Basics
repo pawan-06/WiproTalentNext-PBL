@@ -1,0 +1,45 @@
+/*Assignment_1*/
+
+
+public class Assignment1{
+
+	public static void main(String[] args)  {
+		System.out.println(args[0]+" "+"Technolgies"+" "+args[1]);
+	}
+
+}
+
+
+
+
+/*Assignment_2*/
+
+
+public class Assignment2 {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome"+" "+args[0]);
+	}
+
+}
+
+
+
+
+
+/*Assignment_3*/
+
+
+public class Assignment03 {
+
+	public static void main(String[] args) {
+		
+		int num1 = Integer.parseInt(args[0]);
+		int num2 = Integer.parseInt(args[1]);
+		
+		int sum = num1 + num2;
+		
+		System.out.println("The sum of "+num1+" and "+num2+" is "+sum);
+	}
+
+}
